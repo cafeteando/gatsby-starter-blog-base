@@ -1,6 +1,6 @@
 {
   "name": "gatsby-starter-blog-base",
-  "private": true,
+  "author": "cafeteando <https://github.com/cafeteando>",
   "description": "A boilerplate blog starter for Gatsby",
   "version": "0.0.1",
   "license": "MIT",
@@ -19,7 +19,8 @@
     "react-dom": "^16.12.0"
   },
   "devDependencies": {
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+     "gh-pages": "^2.1.1"
   },
   "repository": {
     "type": "git",
