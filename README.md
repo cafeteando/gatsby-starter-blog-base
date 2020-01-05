@@ -37,7 +37,7 @@ Open the my-gatsby-starter-blog-base directory in your code editor of choice and
 # What's inside?
 
 A quick look at the top-level files and directories you'll see in a Gatsby project.
-
+```sh
 .
 ├── node_modules
 ├── src
@@ -51,6 +51,7 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 ├── package-lock.json
 ├── package.json
 └── README.md
+```
 
 /node_modules: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
 
